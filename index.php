@@ -55,7 +55,7 @@
 									</button>
 								</div>
 								<div class="mt-4 text-center">
-									Don't have an account? <a href="view.php">Create One</a>
+									Don't have an account? <a href="lib/register/view.php">Create One</a>
 								</div>
 							</form>
 						</div>

@@ -1,0 +1,16 @@
+{
+    "name": "estudante/sopa",
+    "description": "pacote para conexao com rest",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andre Souza",
+            "email": "andre02souza@outlook.com.br"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "openprovider/rest-client-php": "dev-v1beta"
+    }
+}
